@@ -14,7 +14,7 @@ To build:
 ```
 git clone git@github.com:yiquintero/dcc-codingsession-pybind11.git
 cd dcc-codingsession-pybind11
-pip instal ./pymymath
+pip install ./pymymath
 ```
 
 ## CMake - mymathapp
