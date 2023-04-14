@@ -19,24 +19,14 @@ pip instal ./pymymath
 
 ## CMake - mymathapp
 
-Requirements: CMake and a c++ compiler (pre GNU for Linux or Visual Studio for Windows)
+Requirements: CMake and a c++ compiler (preferably GNU for Linux or Visual Studio for Windows)
 
-To build:
+To build & run:
 ```
 git clone git@github.com:yiquintero/dcc-codingsession-pybind11.git
-cd dcc-codingsession-pybind11
-
-# Build mymath library - output files located in pymymath/mymath/bin
-cd pymymath/mymath
+cd dcc-codingsession-pybind11/mymathapp
 mkdir build
 cd build
 cmake ..
-make
-
-# Build mymathapp, an app that uses the mymath library - output files located in mymathapp/bin
-cd ../../../mymathapp/
-mkdir build
-cd build
-cmake ..
-make
+./mymathapp
 ```
