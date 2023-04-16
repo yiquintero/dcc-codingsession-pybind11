@@ -53,19 +53,37 @@ make
 
 Some useful links that came up whilst preparing the contents of the session:
 
-- Python and C++ integration:
+<details>
+<summary>Python and C++ integration</summary>
+
   - [Thinking Hybrid: python/c++ Integration - a Slideshare presentation](https://www.slideshare.net/XEmacs/thinking-hybrid-pythonc-integration)
   - [Python calling C++ - a BlueYonder blog post](https://tech.blueyonder.com/python-calling-c++/)
   - [Scientific Programming in Python with C++ extensions - an article by Sam Thompson](https://thompsonsed.co.uk/scientific-programming-in-python-with-c-extensions)
-- pybind11
-  - [C++ in Python the Easy Way! - a very useful Youtube video on how to use pybind11](https://youtu.be/_5T70cAXDJ0)
-  - [Using pybind11 - part of a 'Computational Statistics in Python' course from Duke University](https://people.duke.edu/~ccc14/cspy/18G_C++_Python_pybind11.html)
-  - ['Pybind11 - Python on Steroids' by Jan Plhak - a video from CppCon 2017](https://www.youtube.com/watch?v=uM1QQXekhpo)
-  - ['Introduction to C++ python extensions and embedding Python in C++ Apps' by Diego Rodriguez-Loasada - a video from CppCon2016](https://youtu.be/bJq1n4gQFfw)
-  - [Pybind11 - SciPy 2021 - a Slideshare presentation](https://www.slideshare.net/HenrySchreiner/pybind11-scipy-2021)
-  - [Easing Customer Access With pybind11 - blog post by HD Vision Systems](https://www.hdvisionsystems.com/en/blog/pybind11-easing-access/)
-- CMake
-  - [Carpentry tutotial](https://hsf-training.github.io/hsf-training-cmake-webpage/index.html)
-- C++
-  - [A set (playlist) of Youtube videos by TheCherno that teaches the basics of C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-  - [Comparing Floating Point Numbers - an insightful article from the Random ASCII blog](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
+</details>
+
+
+<details>
+<summary>pybind11</summary>
+
+- [C++ in Python the Easy Way! - a very useful Youtube video on how to use pybind11](https://youtu.be/_5T70cAXDJ0)
+- [Using pybind11 - part of a 'Computational Statistics in Python' course from Duke University](https://people.duke.edu/~ccc14/cspy/18G_C++_Python_pybind11.html)
+- ['Pybind11 - Python on Steroids' by Jan Plhak - a video from CppCon 2017](https://www.youtube.com/watch?v=uM1QQXekhpo)
+- ['Introduction to C++ python extensions and embedding Python in C++ Apps' by Diego Rodriguez-Loasada - a video from CppCon2016](https://youtu.be/bJq1n4gQFfw)
+- [Pybind11 - SciPy 2021 - a Slideshare presentation](https://www.slideshare.net/HenrySchreiner/pybind11-scipy-2021)
+- [Easing Customer Access With pybind11 - blog post by HD Vision Systems](https://www.hdvisionsystems.com/en/blog/pybind11-easing-access/)
+</details>
+
+
+<details>
+<summary>CMake</summary>
+
+- [Carpentry tutotial](https://hsf-training.github.io/hsf-training-cmake-webpage/index.html)
+</details>
+
+
+ <details>
+ <summary>C++</summary>
+
+- [A set (playlist) of Youtube videos by TheCherno that teaches the basics of C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [Comparing Floating Point Numbers - an insightful article from the Random ASCII blog](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/)
+</details>
