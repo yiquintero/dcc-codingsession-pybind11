@@ -13,14 +13,14 @@ An example of a Python module that serves as a wrapper for C++ code is included 
 Requirements: pip, python 3.5+ and (maybe) g++ and gcc compilers.
 
 To build the pymymath python module:
-```console
+```sh
 git clone git@github.com:yiquintero/dcc-codingsession-pybind11.git
 cd dcc-codingsession-pybind11
 pip install ./pymymath
 ```
 
 To use the newly created python module launch the python interpreter, import the module and call the functions.
-```console
+```sh
 python
 >>import pymymath
 >>pymymath.add(5,3)
@@ -34,7 +34,7 @@ An example of a C++ app that is built with CMake is included in the mymathapp di
 Requirements: CMake and a C++ compiler (preferably GNU for Linux or Visual Studio for Windows)
 
 To build & run:
-```console
+```sh
 git clone git@github.com:yiquintero/dcc-codingsession-pybind11.git
 cd dcc-codingsession-pybind11/mymathapp
 mkdir build
