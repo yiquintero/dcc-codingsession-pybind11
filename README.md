@@ -6,7 +6,7 @@ The first part of the session discusses how to combine Python and C++ using [pyb
 
 The second part of the coding session is a quick introduction to [CMake](https://cmake.org/). An example of how to build a C++ application with CMake is included in the mymathapp directory of the repo.
 
-## pybind11 tutorial
+## pybind11 example
 
 An example of a Python module that serves as a wrapper for C++ code is included in the pymymath directory. The C++ source code is located in the pymypath/mymath directory and the python bindings are in the file pymymath/src/binding.cpp.
 
@@ -27,7 +27,7 @@ python
 >>8.0
 ```
 
-## CMake - mymathapp
+## CMake example
 
 An example of a C++ app that is built with CMake is included in the mymathapp directory.
 
